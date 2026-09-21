@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Vincent, Student from Saxony, Germany and I'm working on websites and apps.
+I'm Vincent, Student from Saxony, Germany and I'm working on websites and apps. Contact me on instagram [@vinceundinsta](https://www.instagram.com/vinceundinsta/)
 
 ## Contributions
 
@@ -15,6 +15,3 @@ iMac (M3) · iPhone 12 Pro · iPad Air (M2)
 
 <!-- Tech stack: add here later -->
 
-## Contact
-
-- ✉️ vinceundco@gmx.com
