@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**Vinceundco/Vinceundco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vincent, Student from Saxony, Germany and I'm working on websites and apps.
 
-Here are some ideas to get you started:
+## Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**ecosphere-owl.com**](https://ecosphere-owl.com)
+- [**majortwelve.com**](https://majortwelve.com) (with [@InvalidPandaa](https://github.com/InvalidPandaa))
+- **feldwerk-strohbau.de** (coming soon)
+- **OPAS Mobile** (unofficial)
+
+## Setup
+
+iMac (M3) · iPhone 12 Pro · iPad Air (M2)
+
+<!-- Tech stack: add here later -->
+
+## Contact
+
+- ✉️ vinceundco@gmx.com
