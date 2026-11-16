@@ -15,16 +15,15 @@
 ## 👋 About me
 
 I'm a student from Saxony, Germany, and I build websites and apps for clubs, ensembles and small businesses.
-Most of my projects start with a real need and end up as something people actually use.
 
 - 🌐 Websites and apps for real projects
-- 🖥️ I run my own server and host my projects in containers
+- 🖥️ I run my own homeserver
 - 🧪 Always trying new things and tinkering with self-hosting
 - 🌱 Learning something new with every project
 
 ## 🚀 Projects & contributions
 
-- 🦉 [**ecosphere-owl.com**](https://ecosphere-owl.com): website for Ecosphere
+- 🌳 [**ecosphere-owl.com**](https://ecosphere-owl.com): website for Ecosphere
 - 🎶 [**majortwelve.com**](https://majortwelve.com): website for the vocal ensemble MajorTwelve (with [@InvalidPandaa](https://github.com/InvalidPandaa))
 - 🌾 **feldwerk-strohbau.de**: coming soon
 - 🖥️ **Self-hosting**: my own server with containerized services
